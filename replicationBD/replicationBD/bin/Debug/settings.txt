@@ -1,0 +1,22 @@
+образец записи:
+"логин"/"пароль"
+"имя подразделения"/"IP-адресс"/"servise name"
+begin
+user/password
+погп Ярево/localhost/ORCL
+погп Полесье/localhost/ORCL
+погз Лынтупы/localhost/ORCL
+рез. погз Поставы/localhost/ORCL
+погз Островецкая/localhost/ORCL
+погп Кемелешки/localhost/ORCL
+погз Молодечненская/localhost/ORCL
+погз Лоша/localhost/ORCL
+рез. погз Гудогай/localhost/ORCL
+погз Каменный Лог/localhost/ORCL
+погп Крейванци/localhost/ORCL
+погп Клевица/localhost/ORCL
+опк Мольдевичи/localhost/ORCL
+опк Котловка/localhost/ORCL
+опк Гудогай/localhost/ORCL
+опк Лоша/localhost/ORCL
+опк Каменный лог/localhost/ORCL

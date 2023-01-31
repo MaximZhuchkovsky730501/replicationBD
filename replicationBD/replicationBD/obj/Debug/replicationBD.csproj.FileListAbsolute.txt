@@ -1,0 +1,7 @@
+C:\Users\ZHUCHKOVSKIJ_MYA\Documents\Visual Studio 2012\Projects\replicationBD\replicationBD\bin\Debug\replicationBD.exe.config
+C:\Users\ZHUCHKOVSKIJ_MYA\Documents\Visual Studio 2012\Projects\replicationBD\replicationBD\bin\Debug\replicationBD.exe
+C:\Users\ZHUCHKOVSKIJ_MYA\Documents\Visual Studio 2012\Projects\replicationBD\replicationBD\bin\Debug\replicationBD.pdb
+C:\Users\ZHUCHKOVSKIJ_MYA\Documents\Visual Studio 2012\Projects\replicationBD\replicationBD\obj\Debug\replicationBD.exe
+C:\Users\ZHUCHKOVSKIJ_MYA\Documents\Visual Studio 2012\Projects\replicationBD\replicationBD\obj\Debug\replicationBD.pdb
+C:\Users\ZHUCHKOVSKIJ_MYA\Documents\Visual Studio 2012\Projects\replicationBD\replicationBD\obj\Debug\replicationBD.csproj.AssemblyReference.cache
+C:\Users\ZHUCHKOVSKIJ_MYA\Documents\Visual Studio 2012\Projects\replicationBD\replicationBD\obj\Debug\replicationBD.csproj.CoreCompileInputs.cache
